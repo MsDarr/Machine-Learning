@@ -1,6 +1,0 @@
-Feature Category,Count,Mean Value,Max Value,Correlation to Target,Redundancy Note
-Mean Radius,569,14.12,28.11,0.73,High corr. with Perimeter
-Mean Texture,569,19.28,39.28,0.42,Independent predictor
-Mean Perimeter,569,91.96,188.5,0.74,Redundant with Radius
-Mean Area,569,654.8,2501,0.71,Requires Scaling
-Concave Points,569,0.05,0.2,0.77,Strongest Predictor
