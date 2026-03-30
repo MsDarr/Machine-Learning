@@ -1,5 +1,0 @@
-Model ID,False Negatives (FN),False Positives (FP),Recall (Sensitivity),Precision,F1-Score
-M-01,12,8,89.10%,92.50%,0.908
-M-02,6,4,94.50%,96.20%,0.953
-M-03,2,3,98.20%,97.30%,0.977
-M-04,2,3,98.20%,97.30%,0.977
